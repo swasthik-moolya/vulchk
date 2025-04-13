@@ -2,7 +2,7 @@
 
 <h2>Overview</h2>
 <p>
-    The <strong>vulchk Scanner Tool</strong> is a Python-based application designed to scan web applications for common vulnerabilities and open ports. This tool is intended for educational purposes and should only be used on systems for which you have explicit permission to test.
+    The <strong>vulchk Scanner Tool</strong> is a Python-based application designed to scan web applications for Potential vulnerabilities and open ports. This tool is intended for educational purposes and should only be used on systems for which you have explicit permission to test.
 </p>
 
 <h2>Features</h2>
